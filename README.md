@@ -48,8 +48,8 @@ Monocular 3D object detection (Mono3D) aims to infer object locations and dimens
 
 
 ## Updates
-- [March 28, 2026] Released pretrained models and checkpoints.
-- [March 27, 2026] Released official code and training logs.
+- [March 31, 2026] Released pretrained models and checkpoints.
+- [March 31, 2026] Released official code and training logs.
 - [Feb 12, 2026] MonoIA accepted by **CVPR 2026**.
 
 ## Checklist
